@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url(file:///D:/Web%20And%20Development/Musab%20Folder/computer/3d-workstation-with-computer-peripheral-devices.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+    .navbar {
+        width: 90%;
+        margin: auto;
+        padding: 30px;
+        display: flex;
+        justify-content: space-between;
+        justify-content: right;
+        align-items: center;
+    }
+
+    .navbar ul li {
+        display: inline-block;
+        margin: 30px;
+        position: relative;
+    }
+
+    .navbar ul li a {
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+    }
+
+    .navbar ul li a span {
+        background-color: rgba(12, 12, 12, 0.979);
+        padding: 9px;
+        border-radius: 25px;
+    }
+
+    .navbar ul li a:hover {
+        color: rgb(230, 10, 10);
+
+
+    }
+
+    .heading h1 {
+        display: inline-block;
+        margin: 30px;
+        color: white;
+        text-align: left;
+        font-size: 70px;
+        font-family: 'Kdam Thmor Pro', sans-serif;
+
+    }
+
+    .heading h1 span {
+        color: rgb(170, 3, 3);
+
+    }
+
+    .button {
+        width: 90%;
+        margin: auto;
+        padding: 30px;
+        align-items: left;
+        margin: 30px;
+        position: relative;
+    }
+
+
+    .button button {
+        border-radius: 25px;
+        border-color: rgb(190, 13, 7);
+        padding: 15px;
+    }
+
+    .button button a {
+        color: rgb(168, 8, 8);
+        font-weight: 600;
+        text-decoration: none;
+        display: inline-block;
+
+    }
+
+    .home {
+        margin: 30px;
+        position: relative;
+        width: 100%;
+        margin: auto;
+        padding: 30px;
+        display: flex;
+        justify-content: space-between;
+        justify-content: right;
+        align-items: center;
+        border-radius: 25px;
+        border-color: rgb(190, 13, 7);
+        padding: 15px;
+        color: rgb(8, 6, 6);
+        font-weight: 600;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    .about {
+        margin: 30px;
+        position: relative;
+        width: 100%;
+        margin: auto;
+        padding: 30px;
+        display: flex;
+        justify-content: space-between;
+        justify-content: right;
+        align-items: center;
+        border-radius: 25px;
+        border-color: rgb(190, 13, 7);
+        padding: 15px;
+        color: rgb(0, 0, 0);
+        font-weight: 600;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    .con {
+
+        margin: 30px;
+        position: relative;
+        width: 100%;
+        margin: auto;
+        padding: 30px;
+        display: flex;
+        justify-content: space-between;
+        justify-content: right;
+        align-items: center;
+        border-radius: 25px;
+        border-color: rgb(190, 13, 7);
+        padding: 15px;
+        color: rgb(0, 0, 0);
+        font-weight: 600;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    .heading h1 span {
+        color: rgb(207, 179, 23);
+    }
+
+    .log {
+        margin: 30px;
+        position: relative;
+        width: 100%;
+        margin: auto;
+        padding: 30px;
+        display: flex;
+        justify-content: space-between;
+        justify-content: right;
+        align-items: center;
+        border-radius: 25px;
+        border-color: rgb(190, 13, 7);
+        padding: 15px;
+        color: rgb(0, 0, 0);
+        font-weight: 600;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    .game {
+        display: inline-block;
+        margin: 30px;
+        color: white;
+        text-align: left;
+        font-size: 25px;
+        font-family: 'Pacifico', cursive;
+    }
+
+    .box {
+        position: absolute;
+        top: 8px;
+        left: 16px;
+        font-size: 18px;
+      }
+      
+      
+    
